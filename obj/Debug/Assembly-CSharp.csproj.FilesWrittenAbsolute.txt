@@ -1,0 +1,17 @@
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/obj/Debug/Assembly-CSharp.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/UnityEngine.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/UnityEditor.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/timofejjermolaev/Documents/ArduinoTest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
